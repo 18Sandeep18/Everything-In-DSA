@@ -1,6 +1,6 @@
 import java.util.Arrays;
 
-public class RotateArrayByK {
+public class Problem01 {
 
     public static void reverse(int arr[], int s, int e) {
         while (s < e) {
