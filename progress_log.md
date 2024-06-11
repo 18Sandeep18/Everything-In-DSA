@@ -1,8 +1,8 @@
 ## Day 01
 
-### Completed Problems:
+### Completed Problems: [Array Based]
 
-	-**RotateArrayByK**
-	-**Equilibrium Index**
-	-**product of Array Except itself**
+ - **RotateArrayByK**
+ - **Equilibrium Index**
+ - **product of Array Except itself**
 
