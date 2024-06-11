@@ -2,7 +2,7 @@
 
 ### Completed Problems:
 
-	- **RotateArrayByK**
-	- **Equilibrium Index**
-	- **product of Array Except itself**
+ - **RotateArrayByK**
+ - **Equilibrium Index**
+ - **product of Array Except itself**
 
