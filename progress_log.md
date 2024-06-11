@@ -1,6 +1,6 @@
 ## Day 01
 
-### Completed Problems:
+### Completed Problems: [Array Based]
 
  - **RotateArrayByK**
  - **Equilibrium Index**
