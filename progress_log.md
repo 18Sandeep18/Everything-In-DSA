@@ -8,7 +8,7 @@
 
 ## Day 02
 
-### Completed Probles: [1D Array Based]
+### Completed Probles: [1D Array]
 
  - **Trapping Rain Water**
  - **SubArray Sum**
@@ -16,8 +16,16 @@
 
 ## Day 03
 
-### Completed Problems: [1D Array Based , 2D Array Based]
+### Completed Problems: [1D,2D Array]
 
  - **Rotate Matrix by 90deg ClockWise**
  - **Spiral Matrix**
  - **First Missing Positive Integer**
+
+## Day04
+
+### Completed Problems: [1D Array]
+
+ - **Majority Element**
+ - **Majority Element II**
+ - **Next Greater Element III**
