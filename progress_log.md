@@ -1,6 +1,6 @@
 ## Day 01
 
-### Completed Problems: [Array Based]
+### Completed Problems: [1D Array]
 
  - **RotateArrayByK**
  - **Equilibrium Index**
@@ -29,3 +29,12 @@
  - **Majority Element**
  - **Majority Element II**
  - **Next Greater Element III**
+
+## Day05
+
+### Completed Problems: [1D Array]
+
+ - **Max Chunks to make Array Sorted**
+ - **Max Chunks to make Array Sorted II**
+ - **Maximum Product Subarray**
+
