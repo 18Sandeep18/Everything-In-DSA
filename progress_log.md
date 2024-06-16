@@ -38,3 +38,10 @@
  - **Max Chunks to make Array Sorted II**
  - **Maximum Product Subarray**
 
+##Day06
+
+### Completed Problems: [2 Pointers]
+
+ - **2 Sum**
+ - **3 Sum**
+ - **Container with most water**
