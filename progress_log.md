@@ -45,3 +45,11 @@
  - **2 Sum**
  - **3 Sum**
  - **Container with most water**
+
+## Day 07
+
+### Completed Problems: [2 Pointers,2D Array]
+
+ - **Sort 0s 1s 2s**
+ - **Merge Overlapping Intervals**
+ - **Set Matrix to Zeroes**
