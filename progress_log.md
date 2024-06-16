@@ -22,7 +22,7 @@
  - **Spiral Matrix**
  - **First Missing Positive Integer**
 
-## Day04
+## Day 04
 
 ### Completed Problems: [1D Array]
 
@@ -30,7 +30,7 @@
  - **Majority Element II**
  - **Next Greater Element III**
 
-## Day05
+## Day 05
 
 ### Completed Problems: [1D Array]
 
@@ -38,7 +38,7 @@
  - **Max Chunks to make Array Sorted II**
  - **Maximum Product Subarray**
 
-## Day06
+## Day 06
 
 ### Completed Problems: [2 Pointers]
 
