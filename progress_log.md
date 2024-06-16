@@ -38,7 +38,7 @@
  - **Max Chunks to make Array Sorted II**
  - **Maximum Product Subarray**
 
-##Day06
+## Day06
 
 ### Completed Problems: [2 Pointers]
 
