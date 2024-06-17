@@ -2,17 +2,17 @@
 
 ### Solved: 1D Array
 
- - **[RotateArrayByK](https://leetcode.com/problems/rotate-array/description/)**
- - **Equilibrium Index**
- - **product of Array Except itself**
+ - **[Rotate Array By K times](https://leetcode.com/problems/rotate-array/description/) - Medium**
+ - **[Equilibrium Index](https://leetcode.com/problems/find-pivot-index/description/) - Easy**
+ - **[Product of Array Except itself](https://leetcode.com/problems/product-of-array-except-self/description/) - Easy**
 
 ## Day 02
 
 ### Solved: 1D Array
 
- - **Trapping Rain Water**
+ - **[Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/description/) - Hard**
  - **SubArray Sum**
- - **MaxSubArray Sum - Kadane's Algorithm**
+ - **[MaxSubArray Sum](https://leetcode.com/problems/maximum-subarray/description/) - Kadane's Algorithm - Medium**
 
 ## Day 03
 
