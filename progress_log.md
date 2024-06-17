@@ -1,4 +1,4 @@
-## [Day 01](https://img.shields.io/badge/status-completed-brightgreen)
+## Day 01
 
 ### Solved: 1D Array
 
