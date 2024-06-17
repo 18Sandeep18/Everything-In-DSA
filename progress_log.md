@@ -2,7 +2,7 @@
 
 ### Solved: 1D Array
 
- - **RotateArrayByK**
+ - **RotateArrayByK - https://leetcode.com/problems/rotate-array/description/**
  - **Equilibrium Index**
  - **product of Array Except itself**
 
