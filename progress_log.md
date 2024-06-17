@@ -1,6 +1,6 @@
 ## Day 01
 
-### 1D Array
+### Solved: 1D Array
 
  - **RotateArrayByK**
  - **Equilibrium Index**
@@ -8,7 +8,7 @@
 
 ## Day 02
 
-### 1D Array
+### Solved: 1D Array
 
  - **Trapping Rain Water**
  - **SubArray Sum**
@@ -16,7 +16,7 @@
 
 ## Day 03
 
-### 1D,2D Array
+### Solved: 1D,2D Array
 
  - **Rotate Matrix by 90deg ClockWise**
  - **Spiral Matrix**
@@ -24,7 +24,7 @@
 
 ## Day 04
 
-### 1D Array
+### Solved: 1D Array
 
  - **Majority Element**
  - **Majority Element II**
@@ -32,7 +32,7 @@
 
 ## Day 05
 
-### 1D Array
+### Solved: 1D Array
 
  - **Max Chunks to make Array Sorted**
  - **Max Chunks to make Array Sorted II**
@@ -40,7 +40,7 @@
 
 ## Day 06
 
-### 2 Pointers
+### Solved: 2 Pointers
 
  - **2 Sum**
  - **3 Sum**
@@ -48,7 +48,7 @@
 
 ## Day 07
 
-### 2 Pointers,2D Array
+### Solved: 2 Pointers,2D Array
 
  - **Sort 0s 1s 2s**
  - **Merge Overlapping Intervals**
