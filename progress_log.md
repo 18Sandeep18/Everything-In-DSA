@@ -2,7 +2,7 @@
 
 ### Solved: 1D Array
 
- - **[Rotate Array By K times](https://leetcode.com/problems/rotate-array/description/) - Medium**
+ - **[Rotate Array By K times](https://leetcode.com/problems/rotate-array/description/) - \[Medium\]**
  - **[Equilibrium Index](https://leetcode.com/problems/find-pivot-index/description/) - Easy**
  - **[Product of Array Except itself](https://leetcode.com/problems/product-of-array-except-self/description/) - Easy**
 
