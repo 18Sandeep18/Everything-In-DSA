@@ -1,4 +1,4 @@
-## $${\color{white}~White}$$ Day 01(https://github.com/18Sandeep18/100-Days-of-DSA/tree/main/Day01)
+## Day 01(https://github.com/18Sandeep18/100-Days-of-DSA/tree/main/Day01)
 
 ### Solved: 1D Array
 
