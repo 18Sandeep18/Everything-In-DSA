@@ -1,4 +1,4 @@
-## [Day 01](https://github.com/18Sandeep18/100-Days-of-DSA/tree/main/Day01)
+## ![#ffffff][Day 01](https://github.com/18Sandeep18/100-Days-of-DSA/tree/main/Day01)
 
 ### Solved: 1D Array
 
