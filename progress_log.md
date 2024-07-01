@@ -6,7 +6,7 @@
  - **[Equilibrium Index](https://leetcode.com/problems/find-pivot-index/description/) - \[Easy\]**
  - **[Product of Array Except itself](https://leetcode.com/problems/product-of-array-except-self/description/) - \[Easy\]**
 
-## Day 02
+##$${\color{white}Day02} Day 02
 
 ### Solved: 1D Array
 
