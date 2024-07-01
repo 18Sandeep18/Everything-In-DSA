@@ -6,7 +6,7 @@
  - **[Equilibrium Index](https://leetcode.com/problems/find-pivot-index/description/) - \[Easy\]**
  - **[Product of Array Except itself](https://leetcode.com/problems/product-of-array-except-self/description/) - \[Easy\]**
 
-## Day 02
+## Day 02 [ ~Access](https://github.com/18Sandeep18/100-Days-of-DSA/tree/main/Day02)
 
 ### Solved: 1D Array
 
@@ -14,7 +14,7 @@
  - **SubArray Sum**
  - **[MaxSubArray Sum](https://leetcode.com/problems/maximum-subarray/description/) - Kadane's Algorithm - \[Medium\]**
 
-## Day 03
+## Day 03 [ ~Access](https://github.com/18Sandeep18/100-Days-of-DSA/tree/main/Day03)
 
 ### Solved: 1D,2D Array
 
@@ -22,7 +22,7 @@
  - **[Spiral Matrix](https://leetcode.com/problems/spiral-matrix/description/) - \[Medium\]**
  - **[First Missing Positive Integer](https://leetcode.com/problems/first-missing-positive/description/) - \[Hard\]**
 
-## Day 04
+## Day 04 [ ~Access](https://github.com/18Sandeep18/100-Days-of-DSA/tree/main/Day04)
 
 ### Solved: 1D Array
 
@@ -30,7 +30,7 @@
  - **[Majority Element II](https://leetcode.com/problems/majority-element-ii/) - \[Medium\]**
  - **[Next Greater Element III](https://leetcode.com/problems/next-greater-element-iii/description/) - \[Medium\]**
 
-## Day 05
+## Day 05 [ ~Access](https://github.com/18Sandeep18/100-Days-of-DSA/tree/main/Day05)
 
 ### Solved: 1D Array
 
@@ -38,7 +38,7 @@
  - **[Max Chunks to make Array Sorted II](https://leetcode.com/problems/max-chunks-to-make-sorted-ii/description/) - \[hard\]**
  - **[Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/description/) - \[Medium\]**
 
-## Day 06
+## Day 06 [ ~Access](https://github.com/18Sandeep18/100-Days-of-DSA/tree/main/Day06)
 
 ### Solved: 2 Pointers
 
@@ -46,7 +46,7 @@
  - **[3 Sum](https://leetcode.com/problems/3sum/description/) - \[Medium\]**
  - **[Container with most water](https://leetcode.com/problems/container-with-most-water/description/) - \[Medium\]**
 
-## Day 07
+## Day 07 [ ~Access](https://github.com/18Sandeep18/100-Days-of-DSA/tree/main/Day07)
 
 ### Solved: 2 Pointers,2D Array
 
@@ -54,7 +54,7 @@
  - **[Merge Overlapping Intervals](https://leetcode.com/problems/merge-intervals/description/) - \[Medium\]**
  - **[Set Matrix to Zeroes](https://leetcode.com/problems/set-matrix-zeroes/description/) - \[Medium\]**
 
-## Day 08
+## Day 08 [ ~Access](https://github.com/18Sandeep18/100-Days-of-DSA/tree/main/Day08)
 
 ### Solved: HashMap
 
