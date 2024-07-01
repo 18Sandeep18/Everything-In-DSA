@@ -53,3 +53,11 @@
  - **[Sort 0s 1s 2s](https://leetcode.com/problems/sort-colors/description/) - \[Medium\]**
  - **[Merge Overlapping Intervals](https://leetcode.com/problems/merge-intervals/description/) - \[Medium\]**
  - **[Set Matrix to Zeroes](https://leetcode.com/problems/set-matrix-zeroes/description/) - \[Medium\]**
+
+## Day 08
+
+### Solved: HashMap
+
+ - **[Subarray With Sum Equals 'K'](https://leetcode.com/problems/subarray-sum-equals-k/description/) - \[Medium\]**
+ - **[Longest Subarray with sum 'K'](https://tinyurl.com/LongestSubarrayWithSumK) - \[Hard\]**
+ - **[Subarray With Equal No of 0s 1s 2s](https://tinyurl.com/LongestSubarrayWithEqual0s1s2s) - \[Medium\]**
