@@ -17,7 +17,7 @@ class Solution02 {
             int start = currentInterval[0];
             int end = currentInterval[1];
 
-            if (start <= lastUpdated[1]) {
+            if (start <= lastUpdated[1]) {z
                 lastUpdated[1] = Math.max(end, lastUpdated[1]);
             } else {
                 result.add(currentInterval);
