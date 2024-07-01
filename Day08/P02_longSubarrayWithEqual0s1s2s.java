@@ -8,10 +8,13 @@ public class P02_longSubarrayWithEqual0s1s2s {
             prefixSum += arr[i];
             if (prefixSum == k)
                 length = i + 1;
-            int remainingSum = prefixSum - k;
-            if (!map.containsKey(remainingSum)) {
+
+            if (!map.containsKey(prefixSum))
                 map.put(prefixSum, i);
-            } else {
+
+            int remainingSum = prefixSum - k;
+
+            if (map.containsKey(remainingSum)) {
                 length = Math.max(length, i - map.get(remainingSum));
             }
         }
