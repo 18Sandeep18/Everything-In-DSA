@@ -1,6 +1,6 @@
 import java.util.HashMap;
 
-public class P02_longSubarrayWithEqual0s1s2s {
+public class P02_longSubarrayWithSumK {
     public static int longestSubArray(int arr[], int k) {
         HashMap<Integer, Integer> map = new HashMap<>();
         int length = 0, n = arr.length, prefixSum = 0;
