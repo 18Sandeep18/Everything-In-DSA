@@ -1,0 +1,13 @@
+{
+    "java.project.sourcePaths": [
+        "Part06",
+        "Part05",
+        "Part04",
+        "Part03",
+        "Part01",
+        "Part02",
+        "Part07",
+        "Part08"
+    ],
+    "java.project.referencedLibraries": []
+}
