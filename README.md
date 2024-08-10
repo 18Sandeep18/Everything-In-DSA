@@ -1,2 +1,2 @@
-# 100-Days-of-DSA
-This repository contains my solutions for the 100 Days of Data Structures and Algorithms (DSA) challenge. Each day, I will solve 3 quality DSA problems and document my progress. Follow along to see my journey, solutions, and learnings!
+# Everything-You-Need-In-DSA
+This repository contains my solutions with Handwritten Notes for Data Structures and Algorithms (DSA).I will update this repository wuth DSA problems and document with progress. Follow along to see my journey, solutions, and learnings!
