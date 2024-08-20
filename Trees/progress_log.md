@@ -8,6 +8,7 @@
  - **[ZigZag Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal) - \[Medium\]**
  - **[LevelOrder Traversal - II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii) - \[Medium\]**
  - **[Diameter Of a Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) - \[Easy\]**
+ - **[Root to leaf Path in a Binary Tree](https://www.geeksforgeeks.org/problems/root-to-leaf-paths/1) - \[Medium\]**
  - **[Lowest Common Ancestor in BT](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) - \[Medium\]**
  - **[Max Width of BT](https://leetcode.com/problems/maximum-width-of-binary-tree/) - \[Medium\]**
  - **[Construct Binary Tree from Inorder n PostOrder ](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/) - \[Medium\]**
